@@ -1,4 +1,14 @@
 //
+//  InMemoryGameService.swift
+//  MVVMSwiftExample
+//
+//  Created by Michael Bullock on 24/04/2020.
+//  Copyright © 2020 Toptal. All rights reserved.
+//
+
+import Foundation
+
+//
 //  InMemoryGameLibrary.swift
 //  MVVMExample
 //
